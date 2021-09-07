@@ -24,7 +24,7 @@ I'm a full stack developer, with an emphasis on front-end development
 
 ## ⚡ GitHub Stats
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adsonnovaes) 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adsonnovaes&count_private=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsonnovaes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
