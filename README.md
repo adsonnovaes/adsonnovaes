@@ -24,8 +24,13 @@ I'm a full stack developer, with an emphasis on front-end development
 
 ## ⚡ GitHub Stats
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adsonnovaes&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adsonnovaes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=adsonnovaes&theme=react">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=adsonnovaes&count_private=true&show_icons=true&theme=react" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonnovaes&theme=react">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonnovaes&theme=react" />
+</a>
+</div>
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adson_novaes/) 
