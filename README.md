@@ -1,6 +1,5 @@
-## Hi 👋 I'm Adson Novaes
+## Hi 👋 I'm Adson Novaes and i'm a front end developer:
 
-I'm a full stack developer, with an emphasis on front-end development
 - 🔭 I'm currently studying the Information Systems Faculty, 7th period.
 - 🌱 I’m currently learning React, Node and React Native.
 - 🤝 I'm looking to put into practice everything I've learned so far, giving my best wherever I am. 
