@@ -1,8 +1,15 @@
-## Hi 👋 I'm Adson Novaes and i'm a front end developer:
+## Hi 👋 I'm Adson Novaes and i'm a frontend developer:
 
-- 🔭 I'm currently studying the Information Systems Faculty, 7th period.
-- 🌱 I’m currently learning React, Node and React Native.
-- 🤝 I'm looking to put into practice everything I've learned so far, giving my best wherever I am. 
+Desenvolvedor front-end com mais de 4 anos de experiência, sendo mais de 2 anos atuando profissionalmente. 
+Bacharel em Sistemas de Informação.
+
+Atualmente, trabalho com TypeScript, JavaScript e React. 
+Tenho experiência com Redux, jQuery, Hooks, Custom Hooks, CSS, CSS-in-JS (styled-components), Tailwind, StoryBook e SASS.
+
+Tenho experiencia com design responsivo, fast mobile e criação de interfaces baseadas em design systems no Figma. 
+Realizo integrações de endpoints e possuo experiência com ambientes Linux, containers Docker.
+
+Familiarizado com metodologias ágeis, especialmente Scrum.
 
 ## 🚀💻 Technologies & Tools
 
