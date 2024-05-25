@@ -6,7 +6,7 @@ Bacharel em Sistemas de Informação.
 Atualmente, trabalho com TypeScript, JavaScript e React. 
 Tenho experiência com Redux, jQuery, Hooks, Custom Hooks, CSS, CSS-in-JS (styled-components), Tailwind, StoryBook e SASS.
 
-Tenho experiencia com design responsivo, fast mobile e criação de interfaces baseadas em design systems no Figma. 
+Tenho experiencia com design responsivo, mobile first e criação de interfaces baseadas em design systems no Figma. 
 Realizo integrações de endpoints e possuo experiência com ambientes Linux, containers Docker.
 
 Familiarizado com metodologias ágeis, especialmente Scrum.
